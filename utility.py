@@ -81,13 +81,6 @@ class UPstageAPUcontroller:
 
 solar_pro=UPstageAPUcontroller()
 
-
-
-
-    
-        
-
-
 class Node:
     def __init__(self, prompt,model='solar-pro',context=""):
         if model == 'solar-pro':
