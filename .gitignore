@@ -1,3 +1,9 @@
 .env
 /.venv
 /test_set
+/youtube
+/youtube2
+/__pycache__
+youtube.zip
+*.sqlite3 
+*.pkl
